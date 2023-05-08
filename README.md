@@ -1,5 +1,4 @@
 # Music-recommendation-Deep Learning-model
-BDCOE final project
 It is a project that uses facial features to read the emotion and according to the dominant emotion it will recommend the spotify playlist.
 
 some details about commits:-
